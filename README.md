@@ -6,11 +6,7 @@ This project showcases who I am, my projects, and how to reach me – all wrappe
 ## 🔗 Live Demo
 
 Visit the website here:  
-👉 [https://SalehAlomair.github.io/Personal-Website](https://SalehAlomair.github.io/Personal-Website)
-
-## 📸 Preview
-
-![Website Screenshot](./screenshot.png)
+👉 [https://SalehAlomair.github.io/Personal-Website](https://salehalomair.github.io/MyWebsite/)
 
 ## 🚀 Features
 
@@ -30,12 +26,3 @@ Visit the website here:
 - [particles.js](https://vincentgarreau.com/particles.js/)  
 - Font Awesome (for icons)  
 - Custom animations and effects
-
-## 📂 Getting Started
-
-To run the project locally:
-
-```bash
-git clone https://github.com/SalehAlomair/Personal-Website.git
-cd Personal-Website
-# Open index.html in your browser
