@@ -6,7 +6,7 @@ This project showcases who I am, my projects, and how to reach me – all wrappe
 ## 🔗 Live Demo
 
 Visit the website here:  
-👉 [https://SalehAlomair.github.io/Personal-Website](https://salehalomair.github.io/portfolio)
+👉 [https://salehalomair.github.io/portfolio](https://salehalomair.github.io/portfolio)
 
 ## 🚀 Features
 
